@@ -25,7 +25,7 @@
                 <a class="nav-link text-white" href="#buy">How To Buy</a>
                 </li>
                 <li class="nav-item me-5">
-                <a class="nav-link text-white" href="#">Contact Us</a>
+                <a class="nav-link text-white" href="#contact">Contact Us</a>
                 </li>
             </ul>
             </div>
@@ -342,9 +342,9 @@
         }
     </script>
 
-    <section id="cafetaria" class="py-5">
-        <div class="container text-center">
-            <h2>Contact Us</h2>
+    <section id="contact" class="py-5">
+        <div class="container">
+            <h2 style="text-center">Contact Us</h2>
             <form>
             <div class="mb-3">
                 <label for="name" class="form-label">Nama</label>
@@ -362,5 +362,10 @@
         </form>
     </div>
     </section>
+
+        <footer class="text-center py-3 bg-dark text-white">
+        <p>&copy; 2024 Zulfakhri Anindyo Putera. SMK Telkom Jakarta.</p>
+    </footer>
+
     </body>
 </html>
